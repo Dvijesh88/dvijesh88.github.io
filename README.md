@@ -108,7 +108,8 @@ How to build AutoML from scratch
 Evolutionary Trading Algorithms  
   https://medium.com/superalgos/evolutionary-trading-algorithms-aeda48328a0?fbclid=IwAR0aaOJ9RnGd0b2Ok86oyWD3R2atG1p9bo4USVh8WgUXaXxrb-LI-KU2svg  
   
-
+Introducing TensorFlow Federated  
+  https://medium.com/tensorflow/introducing-tensorflow-federated-a4147aa20041?fbclid=IwAR0OoyC6c6_7-5p1kf52nMGU7L0gyeT_k45HpNL8RQhPbAmYrP_JSmHYpOU
 
 ## Domains  
 
@@ -125,6 +126,12 @@ Chars2vec: character-based language model for handling real world texts with spe
 Natural Language Processing Using Stanford’s CoreNLP  
   https://towardsdatascience.com/natural-language-processing-using-stanfords-corenlp-d9e64c1e1024?fbclid=IwAR28yDr0nqGpPgVRrZgZCrHYesLqZR4bPqS8dQYWS0pfj0feDUSAolQWHyc  
   
+NLP-Models-Tensorflow/chatbot/  
+  https://github.com/huseinzol05/NLP-Models-Tensorflow/tree/master/chatbot?fbclid=IwAR2I2_2-mXPXxiy4nnHM5X1yynUUy6P2i0p2u9q_owmoU-KVGQ27HuRnUbw  
+  
+Ten trends in Deep learning NLP  
+  https://blog.floydhub.com/ten-trends-in-deep-learning-nlp/?fbclid=IwAR3l7Nnw52cixfRYf6mSCNPvYJJRnd4tZtu5Sny4Y4P14Iw1knAJHT0js7U  
+  
 ### Speech  
 
 ### Others 
@@ -137,6 +144,7 @@ AdamW and Super-convergence is now the fastest way to train neural nets
   
 AI Weekly: The AI research agenda for the next 20 years is being made now  
   https://venturebeat.com/2019/03/30/keywords-the-not-so-secret-elves-of-game-development/  
+  
   
   
 
@@ -156,6 +164,9 @@ http://introtodeeplearning.com/#schedule
 
 Tutorial to Learn Sequence Modeling  
   https://www.analyticsvidhya.com/blog/2019/01/sequence-models-deeplearning/  
+  
+A Beginner Mathematics Book For Machine Learning  
+  https://www.techleer.com/articles/564-a-beginner-mathematics-book-for-machine-learning/?fbclid=IwAR06G9cp48adyysnpRy109HG5xJvqmOHA94aye6A7flzCepScJErqIoTdM4  
   
   
 ## Artical  
