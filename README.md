@@ -172,7 +172,7 @@ Tutorial to Learn Sequence Modeling
   
 ## Book  
 
-Deep Learning: A Practitioner's Approach  
+Deep Learning: A Practitioner's Approach  Paperback – 2017
   https://www.amazon.in/Deep-Learning-Practitioners-Josh-Patterson/dp/9352136047/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1543317953&sr=1-19  
   
 Natural Language Processing with TensorFlow: Teach language to machines using Python's deep learning library Paperback – Import, 31 May 2018  
