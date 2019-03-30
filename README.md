@@ -1,7 +1,10 @@
 ## Deep Learning
 ### Practical/Videos  
 MIT Introduction to Deep Learning  
-  https://medium.com/tensorflow/mit-introduction-to-deep-learning-4a6f8dde1f0c
+  https://medium.com/tensorflow/mit-introduction-to-deep-learning-4a6f8dde1f0c  
+  
+Using neural nets to recognize handwritten digits  
+  http://neuralnetworksanddeeplearning.com/chap1.html  
 
 
 ## Algorithm  
@@ -25,6 +28,7 @@ Understanding hidden memories of recurrent neural networks
   https://blog.acolyer.org/2019/02/25/understanding-hidden-memories-of-recurrent-neural-networks/amp/
 
 ### GAN   
+  Introduction
   https://poloclub.github.io/ganlab/?fbclid=IwAR2wID0IihgfEj_peVnZ-PjdIVfm3nR-5mR27bmhsBC8ll6jjnlM7EThIx4
 
 Is The GAN-Powered Website ThisPersonDoesNotExist.Com Creepy Or Brilliant?  
@@ -37,10 +41,12 @@ Self-Supervised GANs
 
 A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)  
   https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3?fbclid=IwAR3nzu5oCS25hRFIYN28U2ZWuQBuGjvRP-OqMRwcdA6JjNoz9iDAkn2fco0  
+  
 The best of GAN papers in the year 2018  
   https://dtransposed.github.io/blog/Best-of-GANs-2018-(Part-1-out-of-2).html?fbclid=IwAR2CWKdsL2WLbcBqXSXpjEG0j8W74ikvstyN0dEuswrifPOqwJ4U308fmL0  
+  
 Introduction to Generative Adversarial Neural Networks (GANs)  
-https://vinodsblog.com/2018/11/23/generative-adversarial-networks-gans-the-basics-you-need-to-know/?fbclid=IwAR0N9kCNhE9PEvu6bSGRxavzUxlB_SBGv1aXbXpNcvW2H65DUnEc4cxuFX8  
+  https://vinodsblog.com/2018/11/23/generative-adversarial-networks-gans-the-basics-you-need-to-know/?fbclid=IwAR0N9kCNhE9PEvu6bSGRxavzUxlB_SBGv1aXbXpNcvW2H65DUnEc4cxuFX8  
   
   
 ### Autoencoder  
@@ -70,7 +76,11 @@ Microsoft’s New MT-DNN Outperforms Google BERT
   https://medium.com/syncedreview/microsofts-new-mt-dnn-outperforms-google-bert-b5fa15b1a03e?fbclid=IwAR0mHzqUEnxhJZ4jlkZEAV8onB_A6gZdqv5JraY1pvUUFMTk2aGwixwjaF4  
  
 Reflections on the State of AI: 2018  
-   https://towardsdatascience.com/reflections-on-the-state-of-ai-2018-46504e25263d?fbclid=IwAR18bxjxTaEZ2CwAOsWEK44alA4r-jEv0t36P9PCtzp1FxUv7nU1h4WhROY
+   https://towardsdatascience.com/reflections-on-the-state-of-ai-2018-46504e25263d?fbclid=IwAR18bxjxTaEZ2CwAOsWEK44alA4r-jEv0t36P9PCtzp1FxUv7nU1h4WhROY  
+   
+Reinforcement learning’s foundational flaw  
+https://thegradient.pub/why-rl-is-flawed/  
+
 ## Domains  
 
 ### image and video  
@@ -108,4 +118,7 @@ A computer vision system for deep learning-based detection of patient mobilizati
   https://www.nature.com/articles/s41746-019-0087-z  
    
 WHAT ARE MAJOR REINFORCEMENT LEARNING ACHIEVEMENTS & PAPERS FROM 2018?  
-https://www.topbots.com/most-important-ai-reinforcement-learning-research/?fbclid=IwAR1Crwj1qOrjb9D4Saq_YKwsh6A5nCQ58l8yo96-boNkOLt8Z9CX60EZs6s
+  https://www.topbots.com/most-important-ai-reinforcement-learning-research/?fbclid=IwAR1Crwj1qOrjb9D4Saq_YKwsh6A5nCQ58l8yo96-boNkOLt8Z9CX60EZs6s  
+  
+A Winning Combination: Pairing Video and Movement Data to Enhance Sports Data Analysis  
+  https://innovate.ieee.org/innovation-spotlight/sports-data-analysis-movement-data-video-data/#utm_source=facebook&utm_medium=social&utm_campaign=innovation&utm_content=Sports%20Data%20Analysis
