@@ -12,6 +12,9 @@ Using neural nets to recognize handwritten digits
 
 ### CNN  
 
+Computer vision in the dark using recurrent CNNs  
+  https://techxplore.com/news/2018-11-vision-dark-recurrent-cnns.amp  
+  
 ### Capsule Net
 Capsule Neural Networks: The Next Neural Networks? Part 1: CNNs and their problems.
   https://towardsdatascience.com/capsule-neural-networks-are-here-to-finally-recognize-spatial-relationships-693b7c99b12  
@@ -155,6 +158,16 @@ IIIT Hyderabad and Intel Release World’s First Dataset for Driving in India
 NEURAL NETWORKS AS ORDINARY DIFFERENTIAL EQUATIONS  
   https://rkevingibson.github.io/blog/neural-networks-as-ordinary-differential-equations/?fbclid=IwAR2791TEpvdu61_-pgCgxISdZV-KL0MzOIFKIfW2ZliTxpa4o6q_XUC7-rA
   
+### AI
+
+AI Weekly: The AI research agenda for the next 20 years is being made now  
+  https://venturebeat.com/2019/03/30/keywords-the-not-so-secret-elves-of-game-development/  
+  
+New AI system mimics how humans visualize and identify objects   
+  https://m.techxplore.com/news/2018-12-ai-mimics-humans-visualize.html?fbclid=IwAR3V-NkPDEESzzoQ83LvukEftx7TXIkhPVEKLawG3KT4dgL-59v4YKmiXks  
+ 
+A radical new neural network design could overcome big challenges in AI  
+  https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/?fbclid=IwAR3kcTCl2NO71PGNUj99xsK9fm2wTHMRvD4BACYqn_-FzD_5z5e4Fa1BGTE 
 
 ## Course/Tutorial  
  
