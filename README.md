@@ -140,7 +140,21 @@ Ten trends in Deep learning NLP
   https://blog.floydhub.com/ten-trends-in-deep-learning-nlp/?fbclid=IwAR3l7Nnw52cixfRYf6mSCNPvYJJRnd4tZtu5Sny4Y4P14Iw1knAJHT0js7U  
   
 ### Speech  
+  
+### Chatbot
 
+Top 5 Chatbot Platforms to Develop Bots - Make a Choice  
+  https://www.newgenapps.com/blog/top-5-chatbot-platforms-develop-bots-sdk-solution-tools   
+
+What are the best API's and frameworks to build your own chatbot?  
+  https://www.quora.com/What-are-the-best-APIs-and-frameworks-to-build-your-own-chatbot  
+  
+Building a Chatbot: analysis & limitations of modern platforms  
+  https://tryolabs.com/blog/2017/01/25/building-a-chatbot-analysis--limitations-of-modern-platforms/  
+  
+Awesome bots  
+  https://github.com/invocable/awesome-bots#bot-development  
+  
 ### Others 
 
 MIT Deep Learning Basics: Introduction and Overview with TensorFlow  
