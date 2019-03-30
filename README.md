@@ -61,7 +61,10 @@ Introduction to Generative Adversarial Neural Networks (GANs)
 
 ### LSTM  
 Reading between the layers (LSTM Network)  
-  https://towardsdatascience.com/reading-between-the-layers-lstm-network-7956ad192e58
+  https://towardsdatascience.com/reading-between-the-layers-lstm-network-7956ad192e58  
+  
+ Word Level English to Marathi Neural Machine Translation using Encoder-Decoder Model  
+  https://towardsdatascience.com/word-level-english-to-marathi-neural-machine-translation-using-seq2seq-encoder-decoder-lstm-model-1a913f2dc4a7?fbclid=IwAR3fbn1spcl04rpKd6DPYTjaWnck42k1E4-p9hrdzjf9PW9VruQpU9TREuU  
 
 ### Others  
 
@@ -102,6 +105,9 @@ AutoML: Automating the design of machine learning models for autonomous driving
 How to build AutoML from scratch  
   https://medium.com/@alxmamaev/how-to-build-automl-from-scratch-ce45a4b51e0f?fbclid=IwAR0br9eoxUeq0eUHBGdPhZHgnmoL-qyxgSXM8SJq4pQ6ttivu_MTVRBg7JY  
   
+Evolutionary Trading Algorithms  
+  https://medium.com/superalgos/evolutionary-trading-algorithms-aeda48328a0?fbclid=IwAR0aaOJ9RnGd0b2Ok86oyWD3R2atG1p9bo4USVh8WgUXaXxrb-LI-KU2svg  
+  
 
 
 ## Domains  
@@ -115,7 +121,10 @@ BERT Technology introduced in 3-minutes
 
 Chars2vec: character-based language model for handling real world texts with spelling errors and human slang  
   https://hackernoon.com/chars2vec-character-based-language-model-for-handling-real-world-texts-with-spelling-errors-and-a3e4053a147d
-
+ 
+Natural Language Processing Using Stanford’s CoreNLP  
+  https://towardsdatascience.com/natural-language-processing-using-stanfords-corenlp-d9e64c1e1024?fbclid=IwAR28yDr0nqGpPgVRrZgZCrHYesLqZR4bPqS8dQYWS0pfj0feDUSAolQWHyc  
+  
 ### Speech  
 
 ### Others 
@@ -125,6 +134,10 @@ MIT Deep Learning Basics: Introduction and Overview with TensorFlow
 
 AdamW and Super-convergence is now the fastest way to train neural nets  
   https://www.fast.ai/2018/07/02/adam-weight-decay/  
+  
+AI Weekly: The AI research agenda for the next 20 years is being made now  
+  https://venturebeat.com/2019/03/30/keywords-the-not-so-secret-elves-of-game-development/  
+  
   
 
 ## Course/Tutorial  
