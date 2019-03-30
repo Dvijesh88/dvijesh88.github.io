@@ -91,9 +91,7 @@ Using the latest advancements in deep learning to predict stock price movements
 Microsoft’s New MT-DNN Outperforms Google BERT  
   https://medium.com/syncedreview/microsofts-new-mt-dnn-outperforms-google-bert-b5fa15b1a03e?fbclid=IwAR0mHzqUEnxhJZ4jlkZEAV8onB_A6gZdqv5JraY1pvUUFMTk2aGwixwjaF4  
  
-Reflections on the State of AI: 2018  
-   https://towardsdatascience.com/reflections-on-the-state-of-ai-2018-46504e25263d?fbclid=IwAR18bxjxTaEZ2CwAOsWEK44alA4r-jEv0t36P9PCtzp1FxUv7nU1h4WhROY  
-   
+
 Reinforcement learning’s foundational flaw  
   https://thegradient.pub/why-rl-is-flawed/  
   
@@ -181,7 +179,11 @@ New AI system mimics how humans visualize and identify objects
   https://m.techxplore.com/news/2018-12-ai-mimics-humans-visualize.html?fbclid=IwAR3V-NkPDEESzzoQ83LvukEftx7TXIkhPVEKLawG3KT4dgL-59v4YKmiXks  
  
 A radical new neural network design could overcome big challenges in AI  
-  https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/?fbclid=IwAR3kcTCl2NO71PGNUj99xsK9fm2wTHMRvD4BACYqn_-FzD_5z5e4Fa1BGTE 
+  https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/?fbclid=IwAR3kcTCl2NO71PGNUj99xsK9fm2wTHMRvD4BACYqn_-FzD_5z5e4Fa1BGTE  
+  
+Reflections on the State of AI: 2018  
+   https://towardsdatascience.com/reflections-on-the-state-of-ai-2018-46504e25263d?fbclid=IwAR18bxjxTaEZ2CwAOsWEK44alA4r-jEv0t36P9PCtzp1FxUv7nU1h4WhROY  
+   
 
 ## Course/Tutorial  
  
