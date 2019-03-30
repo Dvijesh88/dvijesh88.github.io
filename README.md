@@ -79,25 +79,39 @@ Reflections on the State of AI: 2018
    https://towardsdatascience.com/reflections-on-the-state-of-ai-2018-46504e25263d?fbclid=IwAR18bxjxTaEZ2CwAOsWEK44alA4r-jEv0t36P9PCtzp1FxUv7nU1h4WhROY  
    
 Reinforcement learning’s foundational flaw  
-https://thegradient.pub/why-rl-is-flawed/  
+  https://thegradient.pub/why-rl-is-flawed/  
+  
+XGBoost: A Scalable Tree Boosting System  
+  https://www.techleer.com/articles/531-xgboost-a-scalable-tree-boosting-system/  
+  
+Types of Optimization Algorithms used in Neural Networks and Ways to Optimize Gradient Descent  
+https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f  
+
+The Sound of Pixels  
+  http://sound-of-pixels.csail.mit.edu/  
 
 ## Domains  
 
 ### image and video  
 
 ### NLP(Sentences)  
-BERT Technology introduced in 3-minutes  
-https://towardsdatascience.com/bert-technology-introduced-in-3-minutes-2c2f9968268c?fbclid=IwAR2FJ-xI9C_UwcQQaE5Cqlgt9_Rcc87jiWVhGhUokmZRCP--opBpsfxvKmo
 
-Chars2vec: character-based language model for handling real world texts with spelling errors and human slang
-https://hackernoon.com/chars2vec-character-based-language-model-for-handling-real-world-texts-with-spelling-errors-and-a3e4053a147d
+BERT Technology introduced in 3-minutes  
+  https://towardsdatascience.com/bert-technology-introduced-in-3-minutes-2c2f9968268c?fbclid=IwAR2FJ-xI9C_UwcQQaE5Cqlgt9_Rcc87jiWVhGhUokmZRCP--opBpsfxvKmo
+
+Chars2vec: character-based language model for handling real world texts with spelling errors and human slang  
+  https://hackernoon.com/chars2vec-character-based-language-model-for-handling-real-world-texts-with-spelling-errors-and-a3e4053a147d
 
 ### Speech  
 
 ### Others 
 
-MIT Deep Learning Basics: Introduction and Overview with TensorFlow
-https://medium.com/tensorflow/mit-deep-learning-basics-introduction-and-overview-with-tensorflow-355bcd26baf0
+MIT Deep Learning Basics: Introduction and Overview with TensorFlow  
+  https://medium.com/tensorflow/mit-deep-learning-basics-introduction-and-overview-with-tensorflow-355bcd26baf0  
+
+AdamW and Super-convergence is now the fastest way to train neural nets  
+  https://www.fast.ai/2018/07/02/adam-weight-decay/  
+  
 
 ## Course/Tutorial  
  
