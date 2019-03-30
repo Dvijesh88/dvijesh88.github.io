@@ -25,7 +25,11 @@ Recurrent Neural Networks
   https://towardsdatascience.com/recurrent-neural-networks-d4642c9bc7ce  
 
 Understanding hidden memories of recurrent neural networks  
-  https://blog.acolyer.org/2019/02/25/understanding-hidden-memories-of-recurrent-neural-networks/amp/
+  https://blog.acolyer.org/2019/02/25/understanding-hidden-memories-of-recurrent-neural-networks/amp/  
+  
+Evolution of Natural Language Generation
+  https://medium.com/sfu-big-data/evolution-of-natural-language-generation-c5d7295d6517?sk=32351c0d87944986275ccf72d3553ab4&fbclid=IwAR1LSBp_q0hGVRoi0TZ-rvw4exM1Xe1Cl0dWdRVBo_lXWJEHXAPdstdMOeo  
+  
 
 ### GAN   
   Introduction
@@ -145,7 +149,8 @@ AdamW and Super-convergence is now the fastest way to train neural nets
 AI Weekly: The AI research agenda for the next 20 years is being made now  
   https://venturebeat.com/2019/03/30/keywords-the-not-so-secret-elves-of-game-development/  
   
-  
+A Step by Step Backpropagation Example  
+  https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/  
   
 
 ## Course/Tutorial  
@@ -164,6 +169,14 @@ http://introtodeeplearning.com/#schedule
 
 Tutorial to Learn Sequence Modeling  
   https://www.analyticsvidhya.com/blog/2019/01/sequence-models-deeplearning/  
+  
+## Book  
+
+Deep Learning: A Practitioner's Approach  
+  https://www.amazon.in/Deep-Learning-Practitioners-Josh-Patterson/dp/9352136047/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1543317953&sr=1-19  
+  
+Natural Language Processing with TensorFlow: Teach language to machines using Python's deep learning library Paperback – Import, 31 May 2018  
+  https://www.amazon.in/Natural-Language-Processing-TensorFlow-language/dp/1788478312/ref=pd_sim_14_7?_encoding=UTF8&pd_rd_i=1788478312&pd_rd_r=fd3254ba-f236-11e8-8e9d-dde34b3ccda1&pd_rd_w=SBMno&pd_rd_wg=Ruxmp&pf_rd_i=desktop-dp-sims&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_p=153bd337-ec7e-4eac-ad08-4a60709340fb&pf_rd_r=18WWHS28RK8KHYJ8W25M&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=18WWHS28RK8KHYJ8W25M  
   
 A Beginner Mathematics Book For Machine Learning  
   https://www.techleer.com/articles/564-a-beginner-mathematics-book-for-machine-learning/?fbclid=IwAR06G9cp48adyysnpRy109HG5xJvqmOHA94aye6A7flzCepScJErqIoTdM4  
