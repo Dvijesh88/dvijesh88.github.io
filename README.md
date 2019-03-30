@@ -72,7 +72,7 @@ Reading between the layers (LSTM Network)
 
 ### Others  
 
-Computer Vision for Global Challenges 2019 by Facebook Research [Prize Worth upto Rs. 28L]: Apply by April 29  
+Computer Vision for Global Challenges 2019 by Facebook Research   
   https://www.noticebard.com/computer-vision-for-global-challenges-facebook-2019/
   
 Turn Quantum Computing Knowledge into Action  
@@ -146,14 +146,14 @@ MIT Deep Learning Basics: Introduction and Overview with TensorFlow
 AdamW and Super-convergence is now the fastest way to train neural nets  
   https://www.fast.ai/2018/07/02/adam-weight-decay/  
   
-AI Weekly: The AI research agenda for the next 20 years is being made now  
-  https://venturebeat.com/2019/03/30/keywords-the-not-so-secret-elves-of-game-development/  
-  
 A Step by Step Backpropagation Example  
   https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/  
   
 IIIT Hyderabad and Intel Release World’s First Dataset for Driving in India  
-  https://www.intel.ai/iiit-hyderabad-and-intel-release-worlds-first-dataset-for-driving-in-india/?utm_campaign=2018-Q4-Global-AI-Always-On-IntelAI_FB&utm_source=facebook&utm_medium=social&utm_content=IndiaDrivingDataset_Static_DMT_CSTM&utm_keyword=NA&cid=2018-Q4-Global-AI-Always-On-IntelAI_FB&spredfast-trk-id=sf204469892?utm_campaign=2018-Q4-Global-AI-Always-On-IntelAI_FB&utm_source=facebook&utm_medium=social&utm_content=IndiaDrivingDataset_Static_DMT_CSTM&utm_keyword=NA&cid=2018-Q4-Global-AI-Always-On-IntelAI_FB&spredfast-trk-id=sf204469892
+  https://www.intel.ai/iiit-hyderabad-and-intel-release-worlds-first-dataset-for-driving-in-india/?utm_campaign=2018-Q4-Global-AI-Always-On-IntelAI_FB&utm_source=facebook&utm_medium=social&utm_content=IndiaDrivingDataset_Static_DMT_CSTM&utm_keyword=NA&cid=2018-Q4-Global-AI-Always-On-IntelAI_FB&spredfast-trk-id=sf204469892?utm_campaign=2018-Q4-Global-AI-Always-On-IntelAI_FB&utm_source=facebook&utm_medium=social&utm_content=IndiaDrivingDataset_Static_DMT_CSTM&utm_keyword=NA&cid=2018-Q4-Global-AI-Always-On-IntelAI_FB&spredfast-trk-id=sf204469892  
+ 
+NEURAL NETWORKS AS ORDINARY DIFFERENTIAL EQUATIONS  
+  https://rkevingibson.github.io/blog/neural-networks-as-ordinary-differential-equations/?fbclid=IwAR2791TEpvdu61_-pgCgxISdZV-KL0MzOIFKIfW2ZliTxpa4o6q_XUC7-rA
   
 
 ## Course/Tutorial  
