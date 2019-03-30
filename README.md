@@ -36,6 +36,12 @@ Is The GAN-Powered Website ThisPersonDoesNotExist.Com Creepy Or Brilliant?
   
 Self-Supervised GANs  
   https://towardsdatascience.com/self-supervised-gans-2aec1eadaccd?fbclid=IwAR3lKBy62V4N8NXEcWyH7BxQQmNNRYuS0-7uP6_XYrYW7jdNqK_NGs_nbtY
+
+The best of GAN papers in the year 2018  
+  https://dtransposed.github.io/blog/Best-of-GANs-2018-(Part-1-out-of-2).html?fbclid=IwAR2CWKdsL2WLbcBqXSXpjEG0j8W74ikvstyN0dEuswrifPOqwJ4U308fmL0  
+  
+Introduction to Generative Adversarial Neural Networks (GANs)  
+  https://vinodsblog.com/2018/11/23/generative-adversarial-networks-gans-the-basics-you-need-to-know/?fbclid=IwAR0N9kCNhE9PEvu6bSGRxavzUxlB_SBGv1aXbXpNcvW2H65DUnEc4cxuFX8  
   
 ### GNN 
 
@@ -89,6 +95,14 @@ https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-n
 
 The Sound of Pixels  
   http://sound-of-pixels.csail.mit.edu/  
+  
+AutoML: Automating the design of machine learning models for autonomous driving  
+  https://medium.com/waymo/automl-automating-the-design-of-machine-learning-models-for-autonomous-driving-141a5583ec2a?fbclid=IwAR15m_6Xkli_PfrBXvT35gg_m18obXb_yWAtel-lHdjJ5TcL8VUs_qNPhBk  
+  
+How to build AutoML from scratch  
+  https://medium.com/@alxmamaev/how-to-build-automl-from-scratch-ce45a4b51e0f?fbclid=IwAR0br9eoxUeq0eUHBGdPhZHgnmoL-qyxgSXM8SJq4pQ6ttivu_MTVRBg7JY  
+  
+
 
 ## Domains  
 
@@ -125,7 +139,11 @@ Restricted Boltzmann Machine Tutorial — Introduction to Deep Learning Conc
   https://medium.com/edureka/restricted-boltzmann-machine-tutorial-991ae688c154?fbclid=IwAR2QctcpSzfou-H5h7_vcNelEydl0SBQ4HbkBCY6F_VwACRHc7IQx_BDrs8
   
 MIT Deep Learning Course 2019 (Good One)
-http://introtodeeplearning.com/#schedule
+http://introtodeeplearning.com/#schedule  
+
+Tutorial to Learn Sequence Modeling  
+  https://www.analyticsvidhya.com/blog/2019/01/sequence-models-deeplearning/  
+  
   
 ## Artical  
 A computer vision system for deep learning-based detection of patient mobilization activities in the ICU
@@ -135,4 +153,8 @@ WHAT ARE MAJOR REINFORCEMENT LEARNING ACHIEVEMENTS & PAPERS FROM 2018?
   https://www.topbots.com/most-important-ai-reinforcement-learning-research/?fbclid=IwAR1Crwj1qOrjb9D4Saq_YKwsh6A5nCQ58l8yo96-boNkOLt8Z9CX60EZs6s  
   
 A Winning Combination: Pairing Video and Movement Data to Enhance Sports Data Analysis  
-  https://innovate.ieee.org/innovation-spotlight/sports-data-analysis-movement-data-video-data/#utm_source=facebook&utm_medium=social&utm_campaign=innovation&utm_content=Sports%20Data%20Analysis
+  https://innovate.ieee.org/innovation-spotlight/sports-data-analysis-movement-data-video-data/#utm_source=facebook&utm_medium=social&utm_campaign=innovation&utm_content=Sports%20Data%20Analysis  
+  
+Neural Graph Learning: Training Neural Networks Using Graphs  
+  https://ai.google/research/pubs/pub46568?fbclid=IwAR0U1KrhLYhBrbnFj6PkP1BGZ0KqqJw13hYIzCgSXPIlH5JG38FO7kwp9Bg  
+  
