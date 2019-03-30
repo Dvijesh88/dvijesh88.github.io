@@ -152,6 +152,9 @@ AI Weekly: The AI research agenda for the next 20 years is being made now
 A Step by Step Backpropagation Example  
   https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/  
   
+IIIT Hyderabad and Intel Release World’s First Dataset for Driving in India  
+  https://www.intel.ai/iiit-hyderabad-and-intel-release-worlds-first-dataset-for-driving-in-india/?utm_campaign=2018-Q4-Global-AI-Always-On-IntelAI_FB&utm_source=facebook&utm_medium=social&utm_content=IndiaDrivingDataset_Static_DMT_CSTM&utm_keyword=NA&cid=2018-Q4-Global-AI-Always-On-IntelAI_FB&spredfast-trk-id=sf204469892?utm_campaign=2018-Q4-Global-AI-Always-On-IntelAI_FB&utm_source=facebook&utm_medium=social&utm_content=IndiaDrivingDataset_Static_DMT_CSTM&utm_keyword=NA&cid=2018-Q4-Global-AI-Always-On-IntelAI_FB&spredfast-trk-id=sf204469892
+  
 
 ## Course/Tutorial  
  
