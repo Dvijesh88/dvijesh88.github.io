@@ -13,7 +13,7 @@ MIT Introduction to Deep Learning
 Capsule Neural Networks: The Next Neural Networks? Part 1: CNNs and their problems.
 https://towardsdatascience.com/capsule-neural-networks-are-here-to-finally-recognize-spatial-relationships-693b7c99b12
 
-Understanding Hinton’s Capsule Networks. Part I: Intuition.
+Understanding Hinton’s Capsule Networks. Part I: Intuition.  
 https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b
 
 ### RNN   
@@ -36,7 +36,12 @@ Self-Supervised GANs
 ### GNN 
 
 A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)  
-  https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3?fbclid=IwAR3nzu5oCS25hRFIYN28U2ZWuQBuGjvRP-OqMRwcdA6JjNoz9iDAkn2fco0
+  https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3?fbclid=IwAR3nzu5oCS25hRFIYN28U2ZWuQBuGjvRP-OqMRwcdA6JjNoz9iDAkn2fco0  
+The best of GAN papers in the year 2018  
+  https://dtransposed.github.io/blog/Best-of-GANs-2018-(Part-1-out-of-2).html?fbclid=IwAR2CWKdsL2WLbcBqXSXpjEG0j8W74ikvstyN0dEuswrifPOqwJ4U308fmL0  
+Introduction to Generative Adversarial Neural Networks (GANs)  
+https://vinodsblog.com/2018/11/23/generative-adversarial-networks-gans-the-basics-you-need-to-know/?fbclid=IwAR0N9kCNhE9PEvu6bSGRxavzUxlB_SBGv1aXbXpNcvW2H65DUnEc4cxuFX8  
+  
   
 ### Autoencoder  
 
