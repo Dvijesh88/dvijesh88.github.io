@@ -29,6 +29,9 @@
 ## DL Architectures
 
 ### CNN
+A Beginner’s Guide To Understanding Convolutional Neural Networks Part  
+  https://www.kdnuggets.com/2016/09/beginners-guide-understanding-convolutional-neural-networks-part-1.html  
+
 
 ### RNN
 
