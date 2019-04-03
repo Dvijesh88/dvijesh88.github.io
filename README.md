@@ -231,4 +231,9 @@ Neural Graph Learning: Training Neural Networks Using Graphs
  ### Action Detection all algo
   https://github.com/jinwchoi/awesome-action-recognition/blob/master/README.md
   
+  ### Must Read Blog for future
+  https://engineering.purdue.edu/elab/CortexNet/
+  https://towardsdatascience.com/a-new-kind-of-deep-neural-networks-749bcde19108
+  
+  
   
