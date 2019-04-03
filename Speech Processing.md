@@ -38,9 +38,6 @@ Guide to Object Detection using Deep Learning: Faster R-CNN,YOLO,SSD
 25 Open Datasets for Deep Learning Every Data Scientist Must Work With  
   https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/  
   
-Presenting TensorLayer for Researchers and Engineers: A transparent Deep Learning and Reinforcement Learning Library  
-
-  
 ### Deep Learning Articles  
 
 11 most read Deep Learning Articles from Analytics Vidhya  
