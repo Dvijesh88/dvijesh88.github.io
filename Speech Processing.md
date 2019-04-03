@@ -48,6 +48,14 @@ Deep Learning Courses
 Deep Learning with TensorFlow  
   https://cognitiveclass.ai/courses/deep-learning-tensorflow/  
   
+Tensorflow for Deep Learning Research  
+  https://web.stanford.edu/class/cs20si/syllabus.html  
+  
+Applied Deep Learning With Tensorflow  
+  https://software.intel.com/en-us/ai/courses/tensorflow?sf184399789=1  
+  
+
+  
 Intro to Deep Learning  
 https://introtodeeplearning.us17.list-manage.com/subscribe/send-email?u=04e315f3e0daad19fefa7feb1&id=7271bf4350&e=ZHZpamVzaC5iaGF0dEBuaXJtYXVuaS5hYy5pbg== 
 
@@ -69,6 +77,13 @@ CNN for visual recognition
 Convolutional Neural Networks  
   https://steemit.com/deep-learning/@cristi/cs231n-convolutional-neural-networks-stanford-open-course  
   
+Convolutional neural networks  
+  https://ml4a.github.io/ml4a/convnets/  
+  
+Introduction to Convolutional Neural Networks  
+  https://www.codeproject.com/Articles/1232042/Introduction-to-Convolutional-Neural-Networks  
+  
+  
 ### RNN  
 Fundamentals of Deep Learning – Introduction to Recurrent Neural Networks  
   https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/  
@@ -77,3 +92,7 @@ Fundamentals of Deep Learning – Introduction to Recurrent Neural Networks
 ### GAN
 What's the difference between CNN, GANs, autoencoders and VAE? 
   https://www.quora.com/unanswered/Whats-the-difference-between-CNN-GANs-autoencoders-and-VAE
+  
+The Generative Adversarial Networks (GANs) are the first step of neural networks technology learning creativity  
+  https://www.kdnuggets.com/2018/02/new-neural-internet-coming.html?utm_content=buffer5f74a&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer  
+  
