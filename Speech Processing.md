@@ -83,7 +83,7 @@ Free Exhaustive And Comprehensive Resources To Learn Deep Learning From Scratch
 Presenting TensorLayer for Researchers and Engineers: A transparent Deep Learning and Reinforcement Learning Library  
   https://www.techleer.com/articles/503-presenting-tensorlayer-for-researchers-and-engineers-a-transparent-deep-learning-and-reinforcement-learning-library/  
   
-NIPS 2017
+NIPS 2017  
   https://github.com/kihosuh/nips_2017/blob/master/README.md  
   
 15 Trending Data Science GitHub Repositories  
@@ -94,7 +94,7 @@ NIPS 2017
 Top 20 Deep Learning Papers   
   https://www.kdnuggets.com/2018/03/top-20-deep-learning-papers-2018.html   
   
-Deep Learning Papers 
+Deep Learning Papers   
   https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html   
 
 ### CNN
@@ -139,6 +139,6 @@ What's the difference between CNN, GANs, autoencoders and VAE?
 The Generative Adversarial Networks (GANs) are the first step of neural networks technology learning creativity  
   https://www.kdnuggets.com/2018/02/new-neural-internet-coming.html?utm_content=buffer5f74a&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer  
 
-Lessons
+Lessons  
   https://course.fast.ai/part2.html
   
