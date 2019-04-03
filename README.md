@@ -224,10 +224,11 @@ WHAT ARE MAJOR REINFORCEMENT LEARNING ACHIEVEMENTS & PAPERS FROM 2018?
 A Winning Combination: Pairing Video and Movement Data to Enhance Sports Data Analysis  
   https://innovate.ieee.org/innovation-spotlight/sports-data-analysis-movement-data-video-data/#utm_source=facebook&utm_medium=social&utm_campaign=innovation&utm_content=Sports%20Data%20Analysis  
   
-  
-  ###Action Detection all algo
-  https://github.com/jinwchoi/awesome-action-recognition/blob/master/README.md
-  
 Neural Graph Learning: Training Neural Networks Using Graphs  
   https://ai.google/research/pubs/pub46568?fbclid=IwAR0U1KrhLYhBrbnFj6PkP1BGZ0KqqJw13hYIzCgSXPIlH5JG38FO7kwp9Bg  
+  
+ 
+ ### Action Detection all algo
+  https://github.com/jinwchoi/awesome-action-recognition/blob/master/README.md
+  
   
