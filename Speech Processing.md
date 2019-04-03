@@ -35,9 +35,15 @@ Tutorial for Caption generation models in keras
 Guide to Object Detection using Deep Learning: Faster R-CNN,YOLO,SSD  
   https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/  
   
+25 Open Datasets for Deep Learning Every Data Scientist Must Work With  
+  https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/  
+  
+Presenting TensorLayer for Researchers and Engineers: A transparent Deep Learning and Reinforcement Learning Library  
+
+  
 ### Deep Learning Articles  
 
-11 most read Deep Learning Articles from Analytics Vidhya
+11 most read Deep Learning Articles from Analytics Vidhya  
   https://www.analyticsvidhya.com/blog/2017/12/11-deep-learning-analytics-vidhya-2017/?utm_content=buffer7a7f5&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer  
 
 ### Deep Learning Courses
@@ -54,7 +60,8 @@ Tensorflow for Deep Learning Research
 Applied Deep Learning With Tensorflow  
   https://software.intel.com/en-us/ai/courses/tensorflow?sf184399789=1  
   
-
+A Free Oxford Course on Deep Learning: Cutting Edge Lessons in Artificial Intelligence  
+  http://www.openculture.com/2018/03/a-free-oxford-course-on-deep-learning.html  
   
 Intro to Deep Learning  
 https://introtodeeplearning.us17.list-manage.com/subscribe/send-email?u=04e315f3e0daad19fefa7feb1&id=7271bf4350&e=ZHZpamVzaC5iaGF0dEBuaXJtYXVuaS5hYy5pbg== 
@@ -83,6 +90,10 @@ Convolutional neural networks
 Introduction to Convolutional Neural Networks  
   https://www.codeproject.com/Articles/1232042/Introduction-to-Convolutional-Neural-Networks  
   
+Deep Learning — Convolutional Neural Networks Basic 101  
+  https://medium.com/@judyshih318/deep-learning-convolutional-neural-networks-basic-101-6f32e219e78f  
+  
+  
   
 ### RNN  
 Fundamentals of Deep Learning – Introduction to Recurrent Neural Networks  
@@ -93,6 +104,9 @@ Fundamentals of Deep Learning – Introduction to Recurrent Neural Networks
 What's the difference between CNN, GANs, autoencoders and VAE? 
   https://www.quora.com/unanswered/Whats-the-difference-between-CNN-GANs-autoencoders-and-VAE
   
-The Generative Adversarial Networks (GANs) are the first step of neural networks technology learning creativity  
+The Generative Adversarial Networks (GANs) are the first step of neural networks technology learning creativity   
   https://www.kdnuggets.com/2018/02/new-neural-internet-coming.html?utm_content=buffer5f74a&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer  
+
+GAN with Keras: Application to Image Deblurring  
+  https://blog.sicara.com/keras-generative-adversarial-networks-image-deblurring-45e3ab6977b5
   
