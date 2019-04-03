@@ -41,6 +41,9 @@ CNN for visual recognition
   http://cs231n.github.io/neural-networks-1/
 
 
-### RNN
+### RNN  
+Fundamentals of Deep Learning – Introduction to Recurrent Neural Networks  
+  https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/  
+  
 
 ### GAN
