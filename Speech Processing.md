@@ -32,16 +32,13 @@ Tutorial for Caption generation models in keras
 
 ## Research Articles
 
+11 most read Deep Learning Articles from Analytics Vidhya  
+  https://www.analyticsvidhya.com/blog/2017/12/11-deep-learning-analytics-vidhya-2017/?utm_content=buffer7a7f5&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 ## Deep Learning Architectures  
 
 Guide to Object Detection using Deep Learning: Faster R-CNN,YOLO,SSD  
   https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/  
   
-### Deep Learning Articles  
-
-11 most read Deep Learning Articles from Analytics Vidhya
-  https://www.analyticsvidhya.com/blog/2017/12/11-deep-learning-analytics-vidhya-2017/?utm_content=buffer7a7f5&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer  
-
 ### Deep Learning Courses
 
 Deep Learning Courses  
