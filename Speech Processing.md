@@ -40,7 +40,7 @@ Tutorial for Caption generation models in keras
 Guide to Object Detection using Deep Learning: Faster R-CNN,YOLO,SSD  
   https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/  
   
-Resources to understand Deep learning
+Resources to understand Deep learning  
   https://blog.paralleldots.com/data-science/deep-learning/free-resources-deep-learning/  
   
 Object Detection using Single Shot Multibox Detector  
@@ -86,13 +86,16 @@ Presenting TensorLayer for Researchers and Engineers: A transparent Deep Learnin
 NIPS 2017
   https://github.com/kihosuh/nips_2017/blob/master/README.md  
   
+15 Trending Data Science GitHub Repositories  
+  https://www.analyticsvidhya.com/blog/2017/12/15-data-science-repositories-github-2017/  
+  
 ### Deep Learning Papers
 
-Top 20 Deep Learning Papers  
-  https://www.kdnuggets.com/2018/03/top-20-deep-learning-papers-2018.html  
+Top 20 Deep Learning Papers   
+  https://www.kdnuggets.com/2018/03/top-20-deep-learning-papers-2018.html   
   
 Deep Learning Papers 
-  https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html  
+  https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html   
 
 ### CNN
 A Beginner’s Guide To Understanding Convolutional Neural Networks   
@@ -131,7 +134,7 @@ Visualizing memorization in RNNs
   
 ### GAN
 What's the difference between CNN, GANs, autoencoders and VAE? 
-  https://www.quora.com/unanswered/Whats-the-difference-between-CNN-GANs-autoencoders-and-VAE
+  https://www.quora.com/unanswered/Whats-the-difference-between-CNN-GANs-autoencoders-and-VAE  
   
 The Generative Adversarial Networks (GANs) are the first step of neural networks technology learning creativity  
   https://www.kdnuggets.com/2018/02/new-neural-internet-coming.html?utm_content=buffer5f74a&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer  
