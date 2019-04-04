@@ -235,5 +235,14 @@ Neural Graph Learning: Training Neural Networks Using Graphs
   https://engineering.purdue.edu/elab/CortexNet/
   https://towardsdatascience.com/a-new-kind-of-deep-neural-networks-749bcde19108
   
-  
+  ### Attention
+  https://distill.pub/2016/augmented-rnns/
+  https://blog.heuritech.com/2016/01/20/attention-mechanism/
+  http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
+  https://jalammar.github.io/illustrated-transformer/
+  https://towardsdatascience.com/memory-attention-sequences-37456d271992
+  https://medium.com/@culurciello/neural-networks-building-blocks-a5c47bcd7c8d
+  https://www.ncbi.nlm.nih.gov/pubmed/23541152
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3242327/
+  https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0
   
