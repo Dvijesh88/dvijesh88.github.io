@@ -35,6 +35,15 @@ Scope of AI and Machine learning in India
  
 Here is Poutyne  
   https://poutyne.org/  
+  
+Which are the best books on digital image processing?  
+  https://www.quora.com/Which-are-the-best-books-on-digital-image-processing  
+  
+Avoid Overfitting with Regularization  
+  https://www.kdnuggets.com/2018/02/avoid-overfitting-regularization.html  
+  
+Deploy machine learning models on mobile and IoT devices   
+  https://www.tensorflow.org/lite#why_do_we_need_a_new_mobile-specific_library  
 
 
 ## Techniques
