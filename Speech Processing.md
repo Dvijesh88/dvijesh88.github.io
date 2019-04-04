@@ -10,6 +10,33 @@
 
 ### Music Information Retrieval
 
+### Computer vision  
+ Teaching Course-computervision  
+   www.cs.ucf.edu/~bagci/teaching/computervision16/  
+ 
+ Computer Vision by Andrew Ng  
+   https://www.kdnuggets.com/2017/12/ng-computer-vision-11-lessons-learnied.html?utm_content=buffer27cc2&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer  
+
+## MISC  
+K-Means Clustering & Smote    
+   https://github.com/felix-last/kmeans_smote  
+   
+Scatnet  
+ https://www.di.ens.fr/data/software/index.php#scatnet  
+ 
+Introduction to Machine Learning with Sound   
+ https://cognitiveclass.ai/courses/machine-learning-sound/  
+
+About DataHack Premier League 2018  
+  https://datahack.analyticsvidhya.com/contest/datahack-premier-league/  
+  
+Scope of AI and Machine learning in India  
+  http://houseofbots.com/news-detail/2270-1-why-you-should-first-learn-linear-algebra-before-you-ace-machine-learning  
+ 
+Here is Poutyne  
+  https://poutyne.org/  
+
+
 ## Techniques
 
 ### Vector Quantization
@@ -121,6 +148,14 @@ Evolution of Object Detection and Localization Algorithms
   
 Understanding deep Convolutional Neural Networks with a practical use-case in Tensorflow and Keras  
   https://ahmedbesbes.com/understanding-deep-convolutional-neural-networks-with-a-practical-use-case-in-tensorflow-and-keras.html  
+  
+Using Evolutionary AutoML to Discover Neural Network Architectures  
+  https://www.techleer.com/articles/499-using-evolutionary-automl-to-discover-neural-network-architectures/  
+  
+Spiking Neural Networks, the Next Generation of Machine Learning  
+  https://towardsdatascience.com/spiking-neural-networks-the-next-generation-of-machine-learning-84e167f4eb2b  
+  
+
   
 ### RNN  
 Fundamentals of Deep Learning – Introduction to Recurrent Neural Networks  
