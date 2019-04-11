@@ -2,11 +2,29 @@
 
 ### Speaker Verification
 
-### Speaker Recognition
+### Speaker Recognition  
+A speaker recognition system which uses GMM-UBM for use in an Android application which helps in monitoring patients suffering from Schizophrenia  
+  https://github.com/scelesticsiva/speaker_recognition_GMM_UBM  
+  
+Automatic Speaker Recognition using Transfer Learning  
+  https://towardsdatascience.com/automatic-speaker-recognition-using-transfer-learning-6fab63e34e74  
+  
+TensorFlow Speech Recognition Challenge— Solution Outline  
+   https://towardsdatascience.com/tensorflow-speech-recognition-challenge-solution-outline-9c42dbd219c9  
 
-### Speech Recognition
+### Speech Recognition  
+ Powerful speech recognition  
+  https://cloud.google.com/speech-to-text/  
+  
+ Speech Accent Archive  
+   https://www.kaggle.com/rtatman/speech-accent-archive/home  
 
-### Speaker Diarization
+### Speaker Diarization  
+Speaker diarization scripts, based on AaltoASR  
+  https://github.com/aalto-speech/speaker-diarization  
+  
+VoxSort Diarization: who spoke when?  
+  http://voxsort.com/  
 
 ### Music Information Retrieval
 
@@ -20,6 +38,9 @@
 ## MISC  
 K-Means Clustering & Smote    
    https://github.com/felix-last/kmeans_smote  
+   
+Deep Dive into Math Behind Deep Networks  
+   https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba  
    
 Scatnet  
  https://www.di.ens.fr/data/software/index.php#scatnet  
@@ -44,6 +65,38 @@ Avoid Overfitting with Regularization
   
 Deploy machine learning models on mobile and IoT devices   
   https://www.tensorflow.org/lite#why_do_we_need_a_new_mobile-specific_library  
+  
+Visualising high-dimensional datasets using PCA and t-SNE in Python  
+  https://medium.com/@luckylwk/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b  
+  
+Speech to Text  
+  https://www.ibm.com/watson/services/speech-to-text/  
+  
+Signal Processing using Python  
+  https://deerishi.wordpress.com/category/auromatic-speech-recognition/  
+  
+Audio Data Augmentation  
+ https://medium.com/@alibugra/audio-data-augmentation-f26d716eee66  
+ 
+Audio data augmentation  
+  https://www.kaggle.com/CVxTz/audio-data-augmentation  
+  
+A PaddlePaddle implementation of DeepSpeech2 architecture for ASR  
+   https://github.com/PaddlePaddle/DeepSpeech  
+   
+Cepstral analysis  
+   http://noel.feld.cvut.cz/~pollak/m/links/cepstral.html  
+   
+What are the best math books for machine learning?  
+   https://www.quora.com/What-are-the-best-math-books-for-machine-learning  
+   
+Python Tkinter Course  
+    https://www.python-course.eu/tkinter_labels.php  
+    
+Unique Interactions  
+   http://uniqueinteractions.com/UI/simple-code-to-play-an-audio-file-in-python-using-pyqt5/  
+
+ 
 
 
 ## Techniques
@@ -85,6 +138,9 @@ Object Detection using Single Shot Multibox Detector
 Face recognition with OpenCV, Python, and deep learning  
   https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/  
   
+Transfer learning & The art of using Pre-trained Models in Deep Learning  
+  https://www.analyticsvidhya.com/blog/2017/06/transfer-learning-the-art-of-fine-tuning-a-pre-trained-model/  
+  
   
 ### Deep Learning Courses
 
@@ -93,6 +149,9 @@ Deep Learning Courses
   
 Deep Learning with TensorFlow  
   https://cognitiveclass.ai/courses/deep-learning-tensorflow/  
+  
+Recognizing Sounds (A Deep Learning Case Study)  
+  https://medium.com/@awjuliani/recognizing-sounds-a-deep-learning-case-study-1bc37444d44d  
   
 Tensorflow for Deep Learning Research  
   https://web.stanford.edu/class/cs20si/syllabus.html  
@@ -125,6 +184,9 @@ NIPS 2017
 15 Trending Data Science GitHub Repositories  
   https://www.analyticsvidhya.com/blog/2017/12/15-data-science-repositories-github-2017/  
   
+Deep_In_depth  
+  https://www.scoop.it/topic/data-science-58  
+  
 ### Deep Learning Papers
 
 Top 20 Deep Learning Papers   
@@ -137,11 +199,23 @@ Deep Learning Papers
 A Beginner’s Guide To Understanding Convolutional Neural Networks   
   https://www.kdnuggets.com/2016/09/beginners-guide-understanding-convolutional-neural-networks-part-1.html 
   
+Spoken language identification with deep convolutional networks  
+  http://yerevann.github.io/2015/10/11/spoken-language-identification-with-deep-convolutional-networks/  
+  
+Automated Audio Content Analysis Using Convolutional Deep Neural Networks   
+  https://github.com/betandr/river  
+  
+A convolutional neural network that classifies sounds  
+  https://github.com/awjuliani/sound-cnn  
+  
 Understanding Activation Functions in Neural Networks  
   https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0 
   
 CNN for visual recognition  
-  http://cs231n.github.io/neural-networks-1/
+  http://cs231n.github.io/neural-networks-1/  
+  
+Artistic Style Transfer with Convolutional Neural Network  
+  https://medium.com/data-science-group-iitr/artistic-style-transfer-with-convolutional-neural-network-7ce2476039fd  
 
 Convolutional Neural Networks  
   https://steemit.com/deep-learning/@cristi/cs231n-convolutional-neural-networks-stanford-open-course  
