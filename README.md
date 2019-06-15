@@ -15,6 +15,14 @@ Using neural nets to recognize handwritten digits
 Computer vision in the dark using recurrent CNNs  
   https://techxplore.com/news/2018-11-vision-dark-recurrent-cnns.amp  
   
+CNN
+  https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac
+  
+Advanced Topics in Deep Convolutional Neural Networks
+  https://towardsdatascience.com/advanced-topics-in-deep-convolutional-neural-networks-71ef1190522d
+  
+  
+  
 ### Capsule Net
 Capsule Neural Networks: The Next Neural Networks? Part 1: CNNs and their problems.
   https://towardsdatascience.com/capsule-neural-networks-are-here-to-finally-recognize-spatial-relationships-693b7c99b12  
