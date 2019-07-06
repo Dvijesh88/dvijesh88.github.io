@@ -32,6 +32,7 @@ Understanding Hinton’s Capsule Networks. Part I: Intuition.
 
 ### RNN   
 
+
 Recurrent Neural Networks  
   https://towardsdatascience.com/recurrent-neural-networks-d4642c9bc7ce  
 
