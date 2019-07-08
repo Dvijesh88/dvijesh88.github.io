@@ -255,3 +255,5 @@ Neural Graph Learning: Training Neural Networks Using Graphs
   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3242327/
   https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0
   
+## Colab notebooks
+https://research.google.com/seedbank/
