@@ -211,6 +211,9 @@ http://introtodeeplearning.com/#schedule
 Tutorial to Learn Sequence Modeling  
   https://www.analyticsvidhya.com/blog/2019/01/sequence-models-deeplearning/  
   
+ Deep Learning 2017: Waterloo university
+ https://uwaterloo.ca/data-analytics/teaching/deep-learning-2017
+  
 ## Book  
 
 Deep Learning: A Practitioner's Approach  Paperback – 2017
@@ -257,3 +260,7 @@ Neural Graph Learning: Training Neural Networks Using Graphs
   
 ## Colab notebooks
 https://research.google.com/seedbank/
+
+
+## NLP histroy
+http://ruder.io/a-review-of-the-recent-history-of-nlp/?utm_campaign=Artificial%2BIntelligence%2Band%2BDeep%2BLearning%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_and_Deep_Learning_Weekly_79
