@@ -264,3 +264,7 @@ https://research.google.com/seedbank/
 
 ## NLP histroy
 http://ruder.io/a-review-of-the-recent-history-of-nlp/?utm_campaign=Artificial%2BIntelligence%2Band%2BDeep%2BLearning%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_and_Deep_Learning_Weekly_79
+
+
+## Tensorflow Tutorial
+Best link is :  https://github.com/jtoy/awesome-tensorflow
