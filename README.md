@@ -245,7 +245,10 @@ Neural Graph Learning: Training Neural Networks Using Graphs
   
   ### Must Read Blog for future
   https://engineering.purdue.edu/elab/CortexNet/
+  
   https://towardsdatascience.com/a-new-kind-of-deep-neural-networks-749bcde19108
+  
+  https://towardsdatascience.com/normalization-in-gradient-s-point-of-view-manual-back-prop-in-tf-2197dfa3497e
   
   ### Attention
   https://distill.pub/2016/augmented-rnns/
