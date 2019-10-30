@@ -261,6 +261,12 @@ Neural Graph Learning: Training Neural Networks Using Graphs
   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3242327/
   https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0
   
+  Attention models
+  
+  https://towardsdatascience.com/an-introduction-to-attention-transformers-and-bert-part-1-da0e838c7cda
+  https://towardsdatascience.com/attention-in-neural-networks-e66920838742
+  
+  
 ## Colab notebooks
 https://research.google.com/seedbank/
 
