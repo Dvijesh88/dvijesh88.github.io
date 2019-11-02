@@ -266,6 +266,12 @@ Neural Graph Learning: Training Neural Networks Using Graphs
   https://towardsdatascience.com/an-introduction-to-attention-transformers-and-bert-part-1-da0e838c7cda
   https://towardsdatascience.com/attention-in-neural-networks-e66920838742
   
+  English to Marathi and for encoder and decoder concept
+  https://towardsdatascience.com/word-level-english-to-marathi-neural-machine-translation-using-seq2seq-encoder-decoder-lstm-model-1a913f2dc4a7
+  
+  Attention concept in above problem
+  https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f
+  
   
 ## Colab notebooks
 https://research.google.com/seedbank/
