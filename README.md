@@ -272,6 +272,11 @@ Neural Graph Learning: Training Neural Networks Using Graphs
   Attention concept in above problem
   https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f
   
+  #With example attention models (Best blog to read)
+  https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f
+  https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05
+  
+  
   
 ## Colab notebooks
 https://research.google.com/seedbank/
