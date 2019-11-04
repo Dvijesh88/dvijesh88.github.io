@@ -276,6 +276,9 @@ Neural Graph Learning: Training Neural Networks Using Graphs
   https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f
   https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05
   
+  Visual Attention
+  https://lab.heuritech.com/attention-mechanism
+  
   
   
 ## Colab notebooks
