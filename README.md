@@ -261,6 +261,11 @@ Neural Graph Learning: Training Neural Networks Using Graphs
   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3242327/
   https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0
   
+  Self Attention Model
+  https://jalammar.github.io/illustrated-transformer/
+  https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
+  https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04
+  
   Attention models
   
   https://towardsdatascience.com/an-introduction-to-attention-transformers-and-bert-part-1-da0e838c7cda
