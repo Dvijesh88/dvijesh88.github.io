@@ -295,4 +295,4 @@ http://ruder.io/a-review-of-the-recent-history-of-nlp/?utm_campaign=Artificial%2
 
 
 ## Tensorflow Tutorial
-Best link is :  https://github.com/jtoy/awesome-tensorflow
+Best link is :  https://github.com/jtoy/awesome-tensorflow 
